@@ -87,7 +87,7 @@ ruleset manage_sensors {
             "temperature_store" : {},
             "sensor_profile": {},
             "twillo_sdk": {},
-            "twillo_app": {"account_sid":"AC1b3fee8ad081c63503818c1c9ee09d4e","auth_token":"0e805aa024a348177090544d1650b56c"},
+            "twillo_app": {"account_sid":"<<SID>>","auth_token":"<<TOKEN>>"},
             "wovyn_base": {},
             "io.picolabs.wovyn.emitter": {}
         } setting(config, rule_id)
